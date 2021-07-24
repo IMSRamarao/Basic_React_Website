@@ -1,0 +1,13 @@
+.Search {
+    padding: 10px;
+    width: 40%;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: medium;
+    border: 2px solid black; 
+    cursor: text;
+    outline: 0;
+}
+.Search:focus {
+    border: 2px solid #555;
+}

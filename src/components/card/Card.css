@@ -1,0 +1,13 @@
+.btn-remove  {
+    padding: 10px;
+    background-color: lightsalmon;
+    color: black;
+    font-weight: bold;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+
+.btn-remove:hover, .btn-remove:active {
+    background-color: salmon;
+    color: white;
+}

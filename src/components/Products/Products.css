@@ -1,0 +1,23 @@
+.Product {
+    display: inline-block;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    height: fit-content;
+    width: 250px;
+    margin: 10Px;
+    padding: 20px;
+    text-align: start;
+  }
+  .btn {
+    padding: 10px;
+    background-color: aliceblue;
+    color: black;
+    border: 1px solid grey;
+    border-radius: 10px;
+    font-weight: bold;
+    outline: 0;
+  }
+
+  .btn:hover, .btn:active {
+    background-color: aquamarine;
+  }
